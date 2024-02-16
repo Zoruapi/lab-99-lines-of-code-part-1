@@ -19,7 +19,7 @@ Objectives
     · Put an 'h1' element in the html body that says My Singing Friends
 
     · Put a 'div' element in the html body with a class of 'friend'.
-        · Inside the 'div' element, put and 'h3' element that containst the word "Friend"
+        · Inside the 'div' element, put and 'h3' element that contains the word "Friend"
         · Inside the 'div' element, put 5 'p' elements.
         · Inside the 'p' elements, put "Test1", "Test2", ..., "Test5"
 
